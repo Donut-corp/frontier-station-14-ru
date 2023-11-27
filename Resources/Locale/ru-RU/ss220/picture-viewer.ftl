@@ -1,0 +1,1 @@
+image-viewer-no-image = Общая карта камер.
